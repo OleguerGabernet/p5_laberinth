@@ -1,5 +1,5 @@
 
-var div = 100;
+var div = 25;
 var dim = 0;
 var a = 20;
 var fr;
